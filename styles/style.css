@@ -3,3 +3,21 @@
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+header {
+    text-align: center;
+}
+
+header ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+header ul li:nth-child(1) {
+    list-style: none;
+}
+
+header ul li {
+    padding-right: 2rem;
+}
