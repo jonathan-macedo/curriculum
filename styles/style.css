@@ -6,6 +6,13 @@
 
 header {
     text-align: center;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    border-bottom: 1px solid black;
+}
+
+header h1 {
+    margin-bottom: 1.3rem;
 }
 
 header ul {
@@ -20,4 +27,18 @@ header ul li:nth-child(1) {
 
 header ul li {
     padding-right: 2rem;
+}
+
+
+main {
+    margin: auto;
+    padding: 5rem;
+}
+
+h2 {
+    margin-top: 1rem;
+}
+
+#habilidades ul li, #experiencia ul li, #formacao ul li, #cursos ul li {
+    font-weight: bold;
 }
