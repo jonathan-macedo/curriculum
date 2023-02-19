@@ -14,8 +14,8 @@ _ps: Se precisar de ajuda para fazer um clone, esse [tutorial aqui](https://help
 
 1. Abra o terminal do seu computador. Se estiver no Windows, pode ser o Prompt de Comando ou PowerShell. Caso use o WSL no Windows, use o Windows Terminal, usando o Ubuntu ou qualquer distribuição suportada pelo WSL. 
 2. Altere o diretório de trabalho atual para o local em que deseja ter o código do módulo salvo no seu computador.
-3. Faça um clone desse repositório rodando: <br> `git clone https://github.com/jonathan-macedo/mudanca_fundo`;
-4. Entre na pasta rodando pelo terminal: `cd mudanca_fundo`;
+3. Faça um clone desse repositório rodando: <br> `git clone https://github.com/jonathan-macedo/curriculum`;
+4. Entre na pasta rodando pelo terminal: `cd curriculum`;
 
 &nbsp;
 
